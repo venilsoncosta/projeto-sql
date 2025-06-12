@@ -26,3 +26,6 @@ select * from produtos;
 
 select * from produtos
 where nome like 'a%';
+
+select * from produtos
+where descricao like 'a%';
